@@ -10,7 +10,7 @@
 <br>
 ## SCREENSHOTS
 <br>
-![image](https://user-images.githubusercontent.com/67144582/180599768-c95b10cd-5a67-4310-8330-2e9430302efa.png)
+ <a href="https://github.com/monster8d/Onedrive_Uninstaller"><img src="https://user-images.githubusercontent.com/67144582/180599768-c95b10cd-5a67-4310-8330-2e9430302efa.png"  width="200"></a>
 <br>
 ## ABOUT
 
