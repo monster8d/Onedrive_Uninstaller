@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/monster8d/Onedrive_Uninstaller"><img src="https://user-images.githubusercontent.com/67144582/180599684-2a30911b-de84-4a72-b166-66b0e981b217.png" alt="Onedrive Uninstaller" width="200"></a>
   <br>
-  Onedrive_Uninstaller
+  Onedrive Uninstaller
   <br>
 </h1>
 
